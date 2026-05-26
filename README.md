@@ -1,6 +1,6 @@
 # 🛒 Web shop testing 
 
-При тестировании интернет-магазина https://intern.demoshopping.ru/ я подготовил различные виды документации для тестирования: 
+При тестировании <a href="https://intern.demoshopping.ru/"> интернет-магазина </a> я подготовил различные виды документации для тестирования: 
 <ul>
   <li> Описал <a href="https://docs.google.com/spreadsheets/d/1E4NUM1FIXHUFpGfoYnVEgQnTO_EJh-RjChyfoL2kLmM/edit?usp=drive_link"> типы, уровни и методы тестирования </a> . </li> 
   <li> Провел <a href="https://docs.google.com/spreadsheets/d/14UyXRgjJgjothhDsqQorzymvHdN8GbgW8M8DxPvwBpM/edit?usp=drive_link"> анализ требований </a> . </li>
